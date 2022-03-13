@@ -1,0 +1,8 @@
+lanms/adaptor.so
+__pycache__
+build
+lanms.egg-info
+.idea
+dist
+venv
+adaptor.so.dSYM/
